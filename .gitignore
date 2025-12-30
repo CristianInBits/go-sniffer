@@ -1,0 +1,21 @@
+go-sniffer
+# Binaries
+/bin/
+/dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build/test artifacts
+*.out
+*.test
+*.prof
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+
+# OS
+Thumbs.db
